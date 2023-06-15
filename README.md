@@ -18,7 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manonfire40&show_icons=true&locale=en&layout=compact" alt="manonfire40" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manonfire40&show_icons=true&locale=en" alt="manonfire40" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manonfire40&" alt="manonfire40" /></p>
 
