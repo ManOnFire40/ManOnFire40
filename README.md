@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab Osman</h1>
-<h3 align="center">A passionate Cyber security Enineering Student from egypt</h3>
+<h3 align="center">Senior Cyber Defense Specialist</h3>
 
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=manonfire40&label=Profile%20views&color=0e75b6&style=flat" alt="manonfire40" /> </p>
